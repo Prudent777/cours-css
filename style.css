@@ -1,0 +1,8 @@
+H1 {
+    background-color: rgb(231, 56, 56);
+    color: blue;
+    text-shadow: 2px ;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+   box-shadow: 5px 5px 15px 5px #000000;
+   background-image: url(./bg.jpg);
+}
